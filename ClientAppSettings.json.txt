@@ -1,0 +1,11 @@
+{
+  "DFIntTaskSchedulerTargetFps": 120,
+  "DFFlagFixGraphicsQuality": true,
+  "DFIntQualityLevel": 1,
+  "DFIntNumWorkerThreads": 2,
+  "DFFlagDisableShadows": true,
+  "DFFlagDisableGlobalShadows": true,
+  "DFFlagSimplifyMaterials": true,
+  "FFlagHandleAltEnterFullscreenManually": false,
+  "DFFlagDebugDisableShaderCache": false
+}
